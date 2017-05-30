@@ -25,11 +25,6 @@ I may create a hex package in the future when this gets better polish, but for n
 
 ```elixir
 def deps do
-  [{:riot_api, git: "https://github.com/erikdsi/riot-api"}]
+  [{:riot_api, git: "https://github.com/erikdsi/riot_api"}]
 end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/riot_api](https://hexdocs.pm/riot_api).
-
